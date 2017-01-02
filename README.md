@@ -4,6 +4,14 @@
 The code uses the tweepy library to access the Twitter API and the TextBlob library to perform Sentiment Analysis on each Tweet. Given a topic we'll be able to see how positive or negative the most recent tweets are. 
 
 ##Demo
+* Sentiment Analysis on the topic - "Trump"
+
+![](https://github.com/Lohit9/tweet-analyzer/blob/master/demo/trump.png)
+
+* Sentiment Analysis on the topic - "Demontization"
+
+![](https://github.com/Lohit9/tweet-analyzer/blob/master/demo/demonitization.png)
+
 
 ##Uses - Try these out!
 * Can be used to see how positive or negative the tweets are, about a given celebrity(i.e for example we can check what people thinking about Trump over the past few days)
